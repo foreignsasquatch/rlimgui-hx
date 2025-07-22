@@ -1,0 +1,15 @@
+{
+    "name": "rlimgui-hx",
+    "url": "https://github.com/ForeignSasquatch/rlimgui-hx",
+    "license": "MIT",
+    "tags": [],
+    "description": "",
+    "version": "0.0.1",
+    "releasenote": "",
+    "contributors": [
+        "ForeignSasquatch"],
+    "classPath": "",
+    "dependencies": {
+        "hxcpp": ""
+    }
+}

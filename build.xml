@@ -1,0 +1,11 @@
+<xml>
+    <files id="haxe">
+        <compilerflag value="-I${haxelib:rlimgui-hx}/rlimgui"/>
+        <compilerflag value="-DNO_FONT_AWESOME" />
+        <!-- <compilerflag value="-I${haxe:linc_imgui}/lib/cimgui/imgui/" /> -->
+        <file name="${haxelib:rlimgui-hx}/rlimgui/rlImGui.cpp" />
+    </files>
+
+    <target id="haxe">
+    </target>
+</xml>
